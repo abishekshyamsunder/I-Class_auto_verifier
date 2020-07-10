@@ -1,0 +1,202 @@
+Test Dir,Fail Reason,Disass,Diff,Assignee
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00039,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00038,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00037,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00036,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00035,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00034,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00033,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00032,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00031,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00030,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00029,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00028,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00027,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00026,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00025,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00024,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00023,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00022,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00021,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00020,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00019,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00017,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00016,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00015,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00014,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00013,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00012,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00010,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00009,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00008,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00007,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00006,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00005,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00004,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00003,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00002,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00001,,,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00000,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00039,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00038,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00037,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00036,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00035,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00034,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00033,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00032,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00031,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00030,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00029,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00028,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00027,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00026,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00025,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00024,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00023,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00022,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00021,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00020,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00019,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00018,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00017,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00016,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00015,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00014,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00013,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00012,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00011,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00010,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00009,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00007,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00005,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00004,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00003,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00002,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00001,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00000,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00039,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00038,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00037,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00036,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00035,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00034,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00033,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00032,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00031,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00030,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00029,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00028,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00027,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00026,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00025,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00024,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00023,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00022,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00021,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00020,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00019,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00018,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00017,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00016,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00015,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00014,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00013,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00012,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00011,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00010,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00009,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00008,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00007,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00006,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00005,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00004,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00003,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00002,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00001,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00000,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00039,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00038,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00037,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00036,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00035,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00034,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00033,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00032,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00031,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00030,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00029,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00028,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00027,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00026,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00025,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00024,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00023,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00022,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00021,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00020,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00019,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00018,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00017,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00016,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00015,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00014,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00013,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00012,,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00011,hang from srli -> divuw,"0000000080001ada <i00000006b6>:
+    80001ada:	8221                	srli	a2,a2,0x8
+
+0000000080001adc <i00000006b7>:
+    80001adc:	02d4d23b          	divuw	tp,s1,a3",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00010,fencei,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00009,value mismatch on divu,"```
+00000000800006c8 <i000000012c>:
+    800006c8:        0309d7b3                  divu        a5,s3,a6
+```","```
+spike.dump:
+3 0x00000000800006c8 (0x0309d7b3) x15 0xce9e3519a12fe4a4
+rtl.dump:
+3 0x00000000800006c8 (0x0309d7b3) x15 0xfe9e3519a12fe4a4
+```",
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00008,hang from subw -> divu,"00000000800018f4 <i000000063a>:
+    800018f4:	9f1d                	subw	a4,a4,a5
+
+00000000800018f6 <i000000063b>:
+    800018f6:	03645b33          	divu	s6,s0,s6",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00007,hang from div -> rem,"0000000080001dc0 <i000000078f>:
+    80001dc0:	02a54bb3          	div	s7,a0,a0
+
+0000000080001dc4 <i0000000790>:
+    80001dc4:	03a1e3b3          	rem	t2,gp,s10",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00006,hang from srlw -> divu,"0000000080000a9c <i0000000239>:
+    80000a9c:	006ed73b          	srlw	a4,t4,t1
+
+0000000080000aa0 <i000000023a>:
+    80000aa0:	02e55533          	divu	a0,a0,a4",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00005,fencei,,,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00004,hang from divu -> divuw,"0000000080002686 <i0000000a12>:
+    80002686:	02e4d733          	divu	a4,s1,a4
+
+000000008000268a <i0000000a13>:
+    8000268a:	02d4d03b          	divuw	zero,s1,a3",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00003,li value mismatch," 
+```
+000000008000205e <i0000000857>:
+    8000205e:        fed00413                  li        s0,-19
+```","```
+spike.dump:
+3 0x000000008000205e (0xfed00413) x 8 0xffffffffffffffed
+rtl.dump:
+3 0x000000008000205e (0xfed00413) x 8 0x000000007f0dfd54
+```",
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00002,hang from sra -> remw,"0000000080003034 <i0000000cb9>:
+    80003034:        405f5f33                  sra        t5,t5,t0
+
+0000000080003038 <i0000000cba>:
+    80003038:        02a7663b                  remw        a2,a4,a0",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00001,hang from srai -> divuw,"000000008000448e <i0000001256>:
+    8000448e:	427bd513          	srai	a0,s7,0x27
+
+0000000080004492 <i0000001257>:
+    80004492:	02abdbbb          	divuw	s7,s7,a0",,
+aapg_iclass_rv64imafdc_imac_bringup_080720201594204783_00000,fence,,,

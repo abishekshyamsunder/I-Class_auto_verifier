@@ -1,0 +1,416 @@
+Test Dir,Fail Reason,Disass,Diff,Assignee
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00019,,,,Abishek
+aapg_iclass_rv64imafdc_bringup_060720201593976556_00000,rtl hang from fence.i,"720201593976556_00000.disass
+    8000045e:        0000100f ",,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00008,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00006,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00002,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00001,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00025,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00021,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00018,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00016,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00014,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00013,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00012,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00011,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00004,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00023,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00017,,,,Abishek
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00029,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imc_bringup_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00029,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imafd_exceptions_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00029,PC mismatch,"00000000800002f2 <i0000000005>:
+    800002f2:	6111                	addi	sp,sp,256","spike.dump: 
+3 0x00000000800002f2 (0x00006111) x 2 0x00000000800679a0 ->
+3 0x00000000800001e4 (0x00007111) x 2 0x00000000800678a0
+rtl.dump:
+3 0x00000000800002f2 (0x00006111) x 2 0x00000000800679a0 ->
+3 0x00000000800002f4 (0x65c782cf) f 5 0xffffffff7fc00000",Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00028,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00027,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00026,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00025,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00024,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00023,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00022,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00021,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00020,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00019,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00018,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00017,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00016,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00015,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00014,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00013,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00012,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00011,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00010,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00009,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00008,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00007,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00006,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00005,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00004,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00003,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00002,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00001,,,,Anuj
+aapg_iclass_rv64imafdc_imafdc_illegal_060720201593976556_00000,Executed illegal instruction ?,"00000000800002fa <i000000000a>:
+    800002fa:        f23d2d67                  0xf23d2d67",,Anuj
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00029,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00028,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00027,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00026,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00025,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00024,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00023,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00022,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00021,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00020,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00019,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00018,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00017,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00016,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00015,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00014,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00013,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00012,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00011,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00010,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00009,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00008,,,,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00007,PC and value mismatch on addi,"800001e4:   7111                    addi    sp,sp,-256","spike.dump:
+3 0x00000000800001e4 (0x00007111) x 2 0x0000000080068040
+rtl.dump:
+3 0x00000000800002e8 (0x00003023) x 0 0x0000000000000000",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00006,value mismatch on ld,"80000278:        7606                        ld        a2,96(sp)","spike.dump:
+3 0x0000000080000278 (0x00007606) x12 0x0000000000000000
+rtl.dump:
+3 0x0000000080000278 (0x00007606) x12 0x55ef5f7501052b86",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00005,hang from addi,"800001e4:   7111                    addi    sp,sp,-256
+",,Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00004,value mismatch on ld,"8000026c:   7342                    ld      t1,48(sp)","spike.dump:
+3 0x000000008000026c (0x00007342) x 6 0x0000000000009728
+rtl.dump:
+3 0x000000008000026c (0x00007342) x 6 0x4557e7908d1a0bb5
+",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00003,value mismatch on ld,"80000268:   7202                    ld      tp,32(sp)","spike.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x0000000080071400
+rtl.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x339138e06e4bfff1",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00002,PC and value mismatch on addi,"800001e4:   7111                    addi    sp,sp,-256","spike.dump:
+3 0x00000000800001e4 (0x00007111) x 2 0x000000008006c108
+rtl.dump:
+3 0x0000000080000306 (0x00000003) x 0 0x0000000000000000
+",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00001,value mismatch on ld,"80000270:   6406                    ld      s0,64(sp)","spike.dump:
+3 0x0000000080000270 (0x00006406) x 8 0x43086851116bf141
+rtl.dump:
+3 0x0000000080000270 (0x00006406) x 8 0x1c7e196ad26abbd9",Divya
+aapg_iclass_rv64imafdc_imafdc_hazards_060720201593976556_00000,hang from addi,"800001e4:   7111                    addi    sp,sp,-256
+",,Divya
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00029,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imafdc_exceptions_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00029,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imafdc_bringup_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00029,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x0000000080071400
+rtl.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x697697d0901aca9f",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00028,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000272 (0x000064a6) x 9 0x0a10f69dab495ef2
+rtl.dump:
+3 0x0000000080000272 (0x000064a6) x 9 0x027b8004c06e0361",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00027,rtl mismatch from addi,,"spike.dump:
+3 0x00000000800001e4 (0x00007111) x 2 0x000000008006dab0
+rtl.dump:
+3 0x00000000800002d6 (0x00006210) x12 0x0000000000000000",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00026,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000270 (0x00006406) x 8 0x4e3c3948fe2ca644
+rtl.dump:
+3 0x0000000080000270 (0x00006406) x 8 0x1641b7ba373e4b6b",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00024,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000278 (0x00007606) x12 0x0000000000000000
+rtl.dump:
+3 0x0000000080000278 (0x00007606) x12 0x2ac37d1820c6663f",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00022,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x0000000080071400
+rtl.dump:
+3 0x0000000080000268 (0x00007202) x 4 0x336a420350dcc46e",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00020,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000276 (0x000065e6) x11 0x0000000000000001
+rtl.dump:
+3 0x0000000080000276 (0x000065e6) x11 0x67d9ba970d97071d",Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00019,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00015,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00010,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00009,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00007,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00005,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00003,,,,Abishek
+aapg_iclass_rv64imafdc_imafdc_branches1_060720201593976556_00000,,,,Abishek
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00029,rtl mismatch from ld,,"spike.dump:
+3 0x0000000080000276 (0x000065e6) x11 0x0000000000000001
+rtl.dump:
+3 0x0000000080000276 (0x000065e6) x11 0x67d9ba970d97071d",abishek
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imafd_bringup_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00029,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00028,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00027,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00026,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00025,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00024,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00023,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00022,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00021,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00020,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00019,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00018,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00017,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00016,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00015,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00014,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00013,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00012,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00011,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00010,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00009,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00008,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00007,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00006,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00005,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00004,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00003,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00002,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00001,,,,
+aapg_iclass_rv64imafdc_imac_bringup_060720201593976556_00000,,,,
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00029,hang from sd -> fence,"00000000800002f6 <i0000000006>:
+    800002f6:	e432                	sd	a2,8(sp)
+
+00000000800002f8 <i0000000007>:
+    800002f8:	0ff0000f          	fence
+",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00028,hang from li -> sll,"    80000322:	4fa9                	li	t6,10
+
+0000000080000324 <i0000000015>:
+    80000324:	00e496b3          	sll	a3,s1,a4
+",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00027,hang from fence.i,"00000000800002ce <i0000000005>:
+    800002ce:	0000100f          	fence.i",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00026,Hang on backward branch,"000000008000033c <i000000001a>:
+    8000033c:        3cb13823                  sd        a1,976(sp)
+
+....
+
+000000008000034a <b000000001f>:
+    8000034a:        4f2d                        li        t5,11
+    8000034c:        0f85                        addi        t6,t6,1
+    8000034e:        ffef87e3                  beq        t6,t5,8000033c <i000000001a>",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00025,hang from lw -> sh,"000000008000093c <i0000000121>:
+    8000093c:	4486                	lw	s1,64(sp)
+
+000000008000093e <i0000000122>:
+    8000093e:	76911023          	sh	s1,1888(sp)",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00024,hang on fence,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00023,hang on fence,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00022,hang,"0000000080000556 <i0000000069>:
+    80000556:	a6c16783          	lwu	a5,-1428(sp)
+
+000000008000055a <i000000006a>:
+    8000055a:	f83e                	sd	a5,48(sp)",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00021,hang on fence.i,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00020,value mismatch on ld,"```
+0000000080000b30 <i000000016f>:
+    80000b30:	644a                	ld	s0,144(sp)
+```","```
+spike.dump:
+3 0x0000000080000b30 (0x0000644a) x 8 0x0000000015ca83e4
+rtl.dump:
+3 0x0000000080000b30 (0x0000644a) x 8 0x224ac344b688aeab
+```",Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00019,hang from slli -> slli,"0000000080000496 <i000000005c>:
+    80000496:	0ff0000f          	fence
+
+000000008000049a <i000000005d>:
+    8000049a:	064e                	slli	a2,a2,0x13
+
+000000008000049c <i000000005e>:
+    8000049c:	042a                	slli	s0,s0,0xa",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00018,value mismatch on ld,"```
+00000000800007fe <i00000000e4>:
+    800007fe:	7522                	ld	a0,40(sp)
+```","```
+spike.dump:
+3 0x00000000800007fe (0x00007522) x10 0x000000000091a9f6
+rtl.dump:
+3 0x00000000800007fe (0x00007522) x10 0x28a87cbe1bf68d6a
+```",Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00017,hang from slliw->sraw,"    80000696:        ffefc0e3                  blt        t6,t5,80000676 <i00000000b0>
+    8000069a:        4fa9                        li        t6,10
+
+000000008000069c <i00000000b5>:
+    8000069c:        012b999b                  slliw        s3,s7,0x12
+
+00000000800006a0 <i00000000b6>:
+    800006a0:        419a5bbb                  sraw        s7,s4,s9
+
+00000000800006a4 <i00000000b7>:
+    800006a4:        0000100f                  fence.i",,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00016,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00015,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00014,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00013,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00012,value mismatch on ld,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00011,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00010,value mismatch on addi,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00009,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00008,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00007,value mismatch on sub,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00006,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00005,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00004,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00003,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00002,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00001,,,,Lavanya
+aapg_iclass_rv64imafdc_ic_bringup_060720201593976556_00000,,,,Lavanya

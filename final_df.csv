@@ -1,0 +1,1274 @@
+test_dir,fail_reason,diff_disass
+,,
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00039,"rtl hang due to -->800045fe:	a06f0f13          	addi	t5,t5,-1530 # 800e0000 <begin_signature>
+","    800045f6:	00020fb7          	lui	t6,0x20
+
+    800045fa:	000dcf17          	auipc	t5,0xdc
+
+    800045fe:	a06f0f13          	addi	t5,t5,-1530 # 800e0000 <begin_signature>
+
+    80004602:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004606:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00038,"rtl hang due to -->8000459c:	a68f0f13          	addi	t5,t5,-1432 # 800e0000 <begin_signature>
+","    80004594:	00020fb7          	lui	t6,0x20
+
+    80004598:	000dcf17          	auipc	t5,0xdc
+
+    8000459c:	a68f0f13          	addi	t5,t5,-1432 # 800e0000 <begin_signature>
+
+    800045a0:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045a4:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00037,"rtl hang due to -->8000457e:	a86f0f13          	addi	t5,t5,-1402 # 800e0000 <begin_signature>
+","    80004576:	00020fb7          	lui	t6,0x20
+
+    8000457a:	000dcf17          	auipc	t5,0xdc
+
+    8000457e:	a86f0f13          	addi	t5,t5,-1402 # 800e0000 <begin_signature>
+
+    80004582:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004586:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00036,"rtl hang due to -->800045d2:	a32f0f13          	addi	t5,t5,-1486 # 800e0000 <begin_signature>
+","    800045ca:	00020fb7          	lui	t6,0x20
+
+    800045ce:	000dcf17          	auipc	t5,0xdc
+
+    800045d2:	a32f0f13          	addi	t5,t5,-1486 # 800e0000 <begin_signature>
+
+    800045d6:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045da:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00035,"rtl hang due to -->80004582:	a82f0f13          	addi	t5,t5,-1406 # 800e0000 <begin_signature>
+","    8000457a:	00020fb7          	lui	t6,0x20
+
+    8000457e:	000dcf17          	auipc	t5,0xdc
+
+    80004582:	a82f0f13          	addi	t5,t5,-1406 # 800e0000 <begin_signature>
+
+    80004586:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000458a:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00034,"rtl hang due to -->8000453e:	ac6f0f13          	addi	t5,t5,-1338 # 800e0000 <begin_signature>
+","    80004536:	00020fb7          	lui	t6,0x20
+
+    8000453a:	000dcf17          	auipc	t5,0xdc
+
+    8000453e:	ac6f0f13          	addi	t5,t5,-1338 # 800e0000 <begin_signature>
+
+    80004542:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004546:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00033,"rtl hang due to -->8000467c:	988f0f13          	addi	t5,t5,-1656 # 800e0000 <begin_signature>
+","    80004674:	00020fb7          	lui	t6,0x20
+
+    80004678:	000dcf17          	auipc	t5,0xdc
+
+    8000467c:	988f0f13          	addi	t5,t5,-1656 # 800e0000 <begin_signature>
+
+    80004680:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004684:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00032,"rtl hang due to -->80004580:	a84f0f13          	addi	t5,t5,-1404 # 800e0000 <begin_signature>
+","    80004578:	00020fb7          	lui	t6,0x20
+
+    8000457c:	000dcf17          	auipc	t5,0xdc
+
+    80004580:	a84f0f13          	addi	t5,t5,-1404 # 800e0000 <begin_signature>
+
+    80004584:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004588:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00031,"rtl hang due to -->800045da:	a2af0f13          	addi	t5,t5,-1494 # 800e0000 <begin_signature>
+","    800045d2:	00020fb7          	lui	t6,0x20
+
+    800045d6:	000dcf17          	auipc	t5,0xdc
+
+    800045da:	a2af0f13          	addi	t5,t5,-1494 # 800e0000 <begin_signature>
+
+    800045de:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045e2:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00030,"rtl hang due to -->8000458c:	a78f0f13          	addi	t5,t5,-1416 # 800e0000 <begin_signature>
+","    80004584:	00020fb7          	lui	t6,0x20
+
+    80004588:	000dcf17          	auipc	t5,0xdc
+
+    8000458c:	a78f0f13          	addi	t5,t5,-1416 # 800e0000 <begin_signature>
+
+    80004590:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004594:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00029,"rtl hang due to -->8000452a:	adaf0f13          	addi	t5,t5,-1318 # 800e0000 <begin_signature>
+","    80004522:	00020fb7          	lui	t6,0x20
+
+    80004526:	000dcf17          	auipc	t5,0xdc
+
+    8000452a:	adaf0f13          	addi	t5,t5,-1318 # 800e0000 <begin_signature>
+
+    8000452e:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004532:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00028,"rtl hang due to -->80004572:	a92f0f13          	addi	t5,t5,-1390 # 800e0000 <begin_signature>
+","    8000456a:	00020fb7          	lui	t6,0x20
+
+    8000456e:	000dcf17          	auipc	t5,0xdc
+
+    80004572:	a92f0f13          	addi	t5,t5,-1390 # 800e0000 <begin_signature>
+
+    80004576:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000457a:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00027,"mismatch due to --> 8000066c:	99c9                	andi	a1,a1,-14
+","```
+
+spike.dump:
+
+3 0x000000008000066c (0x000099c9) x11 0x00000000d2e5b662
+
+rtl.dump:
+
+3 0x000000008000066c (0x000099c9) x11 0x0000000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00026,"rtl hang due to -->8000456c:	a98f0f13          	addi	t5,t5,-1384 # 800e0000 <begin_signature>
+","    80004564:	00020fb7          	lui	t6,0x20
+
+    80004568:	000dcf17          	auipc	t5,0xdc
+
+    8000456c:	a98f0f13          	addi	t5,t5,-1384 # 800e0000 <begin_signature>
+
+    80004570:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004574:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00025,"rtl hang due to -->80004582:	a82f0f13          	addi	t5,t5,-1406 # 800e0000 <begin_signature>
+","    8000457a:	00020fb7          	lui	t6,0x20
+
+    8000457e:	000dcf17          	auipc	t5,0xdc
+
+    80004582:	a82f0f13          	addi	t5,t5,-1406 # 800e0000 <begin_signature>
+
+    80004586:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000458a:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00024,"rtl hang due to -->800045b0:	a54f0f13          	addi	t5,t5,-1452 # 800e0000 <begin_signature>
+","    800045a8:	00020fb7          	lui	t6,0x20
+
+    800045ac:	000dcf17          	auipc	t5,0xdc
+
+    800045b0:	a54f0f13          	addi	t5,t5,-1452 # 800e0000 <begin_signature>
+
+    800045b4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045b8:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00023,"rtl hang due to -->800045a6:	a5ef0f13          	addi	t5,t5,-1442 # 800e0000 <begin_signature>
+","    8000459e:	00020fb7          	lui	t6,0x20
+
+    800045a2:	000dcf17          	auipc	t5,0xdc
+
+    800045a6:	a5ef0f13          	addi	t5,t5,-1442 # 800e0000 <begin_signature>
+
+    800045aa:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045ae:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00022,"rtl hang due to -->80004506:	afef0f13          	addi	t5,t5,-1282 # 800e0000 <begin_signature>
+","    800044fe:	00020fb7          	lui	t6,0x20
+
+    80004502:	000dcf17          	auipc	t5,0xdc
+
+    80004506:	afef0f13          	addi	t5,t5,-1282 # 800e0000 <begin_signature>
+
+    8000450a:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000450e:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00021,"rtl hang due to -->800045fc:	a08f0f13          	addi	t5,t5,-1528 # 800e0000 <begin_signature>
+","    800045f4:	00020fb7          	lui	t6,0x20
+
+    800045f8:	000dcf17          	auipc	t5,0xdc
+
+    800045fc:	a08f0f13          	addi	t5,t5,-1528 # 800e0000 <begin_signature>
+
+    80004600:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004604:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00020,"rtl hang due to -->80004534:	ad0f0f13          	addi	t5,t5,-1328 # 800e0000 <begin_signature>
+","    8000452c:	00020fb7          	lui	t6,0x20
+
+    80004530:	000dcf17          	auipc	t5,0xdc
+
+    80004534:	ad0f0f13          	addi	t5,t5,-1328 # 800e0000 <begin_signature>
+
+    80004538:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000453c:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00019,"rtl hang due to -->80004584:	a80f0f13          	addi	t5,t5,-1408 # 800e0000 <begin_signature>
+","    8000457c:	00020fb7          	lui	t6,0x20
+
+    80004580:	000dcf17          	auipc	t5,0xdc
+
+    80004584:	a80f0f13          	addi	t5,t5,-1408 # 800e0000 <begin_signature>
+
+    80004588:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000458c:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00017,"rtl hang due to -->800045bc:	a48f0f13          	addi	t5,t5,-1464 # 800e0000 <begin_signature>
+","    800045b4:	00020fb7          	lui	t6,0x20
+
+    800045b8:	000dcf17          	auipc	t5,0xdc
+
+    800045bc:	a48f0f13          	addi	t5,t5,-1464 # 800e0000 <begin_signature>
+
+    800045c0:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045c4:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00016,"mismatch due to --> 8000222c:	00d6f033          	and	zero,a3,a3
+","```
+
+spike.dump:
+
+3 0x000000008000222c (0x00d6f033) x 0 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000222c (0x00d6f033) x 0 0x0000000000000282
+
+```
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00015,"rtl hang due to -->800044e2:	b22f0f13          	addi	t5,t5,-1246 # 800e0000 <begin_signature>
+","    800044da:	00020fb7          	lui	t6,0x20
+
+    800044de:	000dcf17          	auipc	t5,0xdc
+
+    800044e2:	b22f0f13          	addi	t5,t5,-1246 # 800e0000 <begin_signature>
+
+    800044e6:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800044ea:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00014,"rtl hang due to -->800045ac:	a58f0f13          	addi	t5,t5,-1448 # 800e0000 <begin_signature>
+","    800045a4:	00020fb7          	lui	t6,0x20
+
+    800045a8:	000dcf17          	auipc	t5,0xdc
+
+    800045ac:	a58f0f13          	addi	t5,t5,-1448 # 800e0000 <begin_signature>
+
+    800045b0:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045b4:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00013,"rtl hang due to -->800045ea:	a1af0f13          	addi	t5,t5,-1510 # 800e0000 <begin_signature>
+","    800045e2:	00020fb7          	lui	t6,0x20
+
+    800045e6:	000dcf17          	auipc	t5,0xdc
+
+    800045ea:	a1af0f13          	addi	t5,t5,-1510 # 800e0000 <begin_signature>
+
+    800045ee:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045f2:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00012,"rtl hang due to -->800044e2:	b22f0f13          	addi	t5,t5,-1246 # 800e0000 <begin_signature>
+","    800044da:	00020fb7          	lui	t6,0x20
+
+    800044de:	000dcf17          	auipc	t5,0xdc
+
+    800044e2:	b22f0f13          	addi	t5,t5,-1246 # 800e0000 <begin_signature>
+
+    800044e6:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800044ea:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00010,"rtl hang due to -->80004624:	9e0f0f13          	addi	t5,t5,-1568 # 800e0000 <begin_signature>
+","    8000461c:	00020fb7          	lui	t6,0x20
+
+    80004620:	000dcf17          	auipc	t5,0xdc
+
+    80004624:	9e0f0f13          	addi	t5,t5,-1568 # 800e0000 <begin_signature>
+
+    80004628:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000462c:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00009,"rtl hang due to -->8000454c:	ab8f0f13          	addi	t5,t5,-1352 # 800e0000 <begin_signature>
+","    80004544:	00020fb7          	lui	t6,0x20
+
+    80004548:	000dcf17          	auipc	t5,0xdc
+
+    8000454c:	ab8f0f13          	addi	t5,t5,-1352 # 800e0000 <begin_signature>
+
+    80004550:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004554:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00008,"rtl hang due to -->80004544:	ac0f0f13          	addi	t5,t5,-1344 # 800e0000 <begin_signature>
+","    8000453c:	00020fb7          	lui	t6,0x20
+
+    80004540:	000dcf17          	auipc	t5,0xdc
+
+    80004544:	ac0f0f13          	addi	t5,t5,-1344 # 800e0000 <begin_signature>
+
+    80004548:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    8000454c:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00007,"rtl hang due to -->80004578:	a8cf0f13          	addi	t5,t5,-1396 # 800e0000 <begin_signature>
+","    80004570:	00020fb7          	lui	t6,0x20
+
+    80004574:	000dcf17          	auipc	t5,0xdc
+
+    80004578:	a8cf0f13          	addi	t5,t5,-1396 # 800e0000 <begin_signature>
+
+    8000457c:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004580:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00006,"rtl hang due to -->8000456a:	a9af0f13          	addi	t5,t5,-1382 # 800e0000 <begin_signature>
+","    80004562:	00020fb7          	lui	t6,0x20
+
+    80004566:	000dcf17          	auipc	t5,0xdc
+
+    8000456a:	a9af0f13          	addi	t5,t5,-1382 # 800e0000 <begin_signature>
+
+    8000456e:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004572:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00005,"rtl hang due to -->800045ce:	a36f0f13          	addi	t5,t5,-1482 # 800e0000 <begin_signature>
+","    800045c6:	00020fb7          	lui	t6,0x20
+
+    800045ca:	000dcf17          	auipc	t5,0xdc
+
+    800045ce:	a36f0f13          	addi	t5,t5,-1482 # 800e0000 <begin_signature>
+
+    800045d2:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045d6:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00004,"rtl hang due to -->80004570:	a94f0f13          	addi	t5,t5,-1388 # 800e0000 <begin_signature>
+","    80004568:	00020fb7          	lui	t6,0x20
+
+    8000456c:	000dcf17          	auipc	t5,0xdc
+
+    80004570:	a94f0f13          	addi	t5,t5,-1388 # 800e0000 <begin_signature>
+
+    80004574:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004578:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00003,"mismatch due to --> 80003a34:	7129                	addi	sp,sp,-320
+","```
+
+spike.dump:
+
+3 0x0000000080003a34 (0x00007129) x 2 0x00000000800e5d50
+
+rtl.dump:
+
+3 0x0000000080003a34 (0x00007129) x 2 0x0000000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00002,"rtl hang due to -->8000459c:	a68f0f13          	addi	t5,t5,-1432 # 800e0000 <begin_signature>
+","    80004594:	00020fb7          	lui	t6,0x20
+
+    80004598:	000dcf17          	auipc	t5,0xdc
+
+    8000459c:	a68f0f13          	addi	t5,t5,-1432 # 800e0000 <begin_signature>
+
+    800045a0:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045a4:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00001,"rtl hang due to -->800045a4:	a60f0f13          	addi	t5,t5,-1440 # 800e0000 <begin_signature>
+","    8000459c:	00020fb7          	lui	t6,0x20
+
+    800045a0:	000dcf17          	auipc	t5,0xdc
+
+    800045a4:	a60f0f13          	addi	t5,t5,-1440 # 800e0000 <begin_signature>
+
+    800045a8:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    800045ac:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imc_bringup_080720201594204783_00000,"rtl hang due to -->8000457c:	a88f0f13          	addi	t5,t5,-1400 # 800e0000 <begin_signature>
+","    80004574:	00020fb7          	lui	t6,0x20
+
+    80004578:	000dcf17          	auipc	t5,0xdc
+
+    8000457c:	a88f0f13          	addi	t5,t5,-1400 # 800e0000 <begin_signature>
+
+    80004580:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80004584:	000ecf17          	auipc	t5,0xec
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00039,"rtl hang due to -->80005ae0:	524f0f13          	addi	t5,t5,1316 # 800e0000 <begin_signature>
+","    80005ad8:	00020fb7          	lui	t6,0x20
+
+    80005adc:	000daf17          	auipc	t5,0xda
+
+    80005ae0:	524f0f13          	addi	t5,t5,1316 # 800e0000 <begin_signature>
+
+    80005ae4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005ae8:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00038,"rtl hang due to -->80005a88:	57cf0f13          	addi	t5,t5,1404 # 800e0000 <begin_signature>
+","    80005a80:	00020fb7          	lui	t6,0x20
+
+    80005a84:	000daf17          	auipc	t5,0xda
+
+    80005a88:	57cf0f13          	addi	t5,t5,1404 # 800e0000 <begin_signature>
+
+    80005a8c:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a90:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00037,"mismatch due to --> 800006ea:	029488bb          	mulw	a7,s1,s1
+","```
+
+spike.dump:
+
+3 0x00000000800006ea (0x029488bb) x17 0x0000000000000001
+
+rtl.dump:
+
+3 0x00000000800006ea (0x029488bb) x17 0xffffffffa6441810
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00036,"rtl hang due to -->80005aca:	53af0f13          	addi	t5,t5,1338 # 800e0000 <begin_signature>
+","    80005ac2:	00020fb7          	lui	t6,0x20
+
+    80005ac6:	000daf17          	auipc	t5,0xda
+
+    80005aca:	53af0f13          	addi	t5,t5,1338 # 800e0000 <begin_signature>
+
+    80005ace:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005ad2:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00035,"mismatch due to --> 80000e10:	411c063b          	subw	a2,s8,a7
+","```
+
+spike.dump:
+
+3 0x0000000080000e10 (0x411c063b) x12 0x00000000000007b7
+
+rtl.dump:
+
+3 0x0000000080000e10 (0x411c063b) x12 0x46353d63b0231a77
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00034,"mismatch due to --> 80002d9c:	ab5afb43          	fmadd.d	fs6,fs5,fs5,fs5
+","```
+
+spike.dump:
+
+3 0x0000000080002d9c (0xab5afb43) f22 0x43ea08f98f8b2c6f
+
+rtl.dump:
+
+3 0x0000000080002d9c (0xab5afb43) f22 0x43ea08f98f8b2c70
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00033,"mismatch due to --> 800009f0:	038c21b3          	mulhsu	gp,s8,s8
+","```
+
+spike.dump:
+
+3 0x00000000800009f0 (0x038c21b3) x 3 0x0000000000000000
+
+rtl.dump:
+
+3 0x00000000800009f0 (0x038c21b3) x 3 0xffffffffffff0e01
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00032,"mismatch due to --> 80000f00:	41695f1b          	sraiw	t5,s2,0x16
+","```
+
+spike.dump:
+
+3 0x0000000080000f00 (0x41695f1b) x30 0x0000000000000041
+
+rtl.dump:
+
+3 0x0000000080000f00 (0x41695f1b) x30 0x0000000000000003
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00031,"mismatch due to --> 8000047a:	bbb4ff43          	fmadd.d	ft10,fs1,fs11,fs7
+","```
+
+spike.dump:
+
+3 0x000000008000047a (0xbbb4ff43) f30 0x7ff8000000000000
+
+rtl.dump:
+
+3 0x000000008000047a (0xbbb4ff43) f30 0x1c19dc50724f80e0
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00030,"rtl hang due to -->80005b68:	49cf0f13          	addi	t5,t5,1180 # 800e0000 <begin_signature>
+","    80005b60:	00020fb7          	lui	t6,0x20
+
+    80005b64:	000daf17          	auipc	t5,0xda
+
+    80005b68:	49cf0f13          	addi	t5,t5,1180 # 800e0000 <begin_signature>
+
+    80005b6c:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b70:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00029,"mismatch due to --> 80000bdc:	03906a3b          	remw	s4,zero,s9
+","```
+
+spike.dump:
+
+3 0x0000000080000bdc (0x03906a3b) x20 0x0000000000000000
+
+rtl.dump:
+
+3 0x0000000080000bdc (0x03906a3b) x20 0x80000000800000ee
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00028,"rtl hang due to -->80005b10:	4f4f0f13          	addi	t5,t5,1268 # 800e0000 <begin_signature>
+","    80005b08:	00020fb7          	lui	t6,0x20
+
+    80005b0c:	000daf17          	auipc	t5,0xda
+
+    80005b10:	4f4f0f13          	addi	t5,t5,1268 # 800e0000 <begin_signature>
+
+    80005b14:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b18:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00027,"rtl hang due to -->80005b4e:	4b6f0f13          	addi	t5,t5,1206 # 800e0000 <begin_signature>
+","    80005b46:	00020fb7          	lui	t6,0x20
+
+    80005b4a:	000daf17          	auipc	t5,0xda
+
+    80005b4e:	4b6f0f13          	addi	t5,t5,1206 # 800e0000 <begin_signature>
+
+    80005b52:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b56:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00026,"mismatch due to --> 80000a1e:	d22f76d3          	fcvt.d.l	fa3,t5
+","```
+
+spike.dump:
+
+3 0x0000000080000a1e (0xd22f76d3) f13 0x4028000000000000
+
+rtl.dump:
+
+3 0x0000000080000a1e (0xd22f76d3) f13 0x1cd395163a35bd54
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00025,"mismatch due to --> 80000686:	00008337          	lui	t1,0x8
+","```
+
+spike.dump:
+
+3 0x0000000080000686 (0x00008337) x 6 0x0000000000008000
+
+rtl.dump:
+
+3 0x0000000080000686 (0x00008337) x 6 0x7ff8000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00024,"rtl hang due to -->80005b10:	4f4f0f13          	addi	t5,t5,1268 # 800e0000 <begin_signature>
+","    80005b08:	00020fb7          	lui	t6,0x20
+
+    80005b0c:	000daf17          	auipc	t5,0xda
+
+    80005b10:	4f4f0f13          	addi	t5,t5,1268 # 800e0000 <begin_signature>
+
+    80005b14:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b18:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00023,"rtl hang due to -->80005a16:	5eef0f13          	addi	t5,t5,1518 # 800e0000 <begin_signature>
+","    80005a0e:	00020fb7          	lui	t6,0x20
+
+    80005a12:	000daf17          	auipc	t5,0xda
+
+    80005a16:	5eef0f13          	addi	t5,t5,1518 # 800e0000 <begin_signature>
+
+    80005a1a:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a1e:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00022,"mismatch due to --> 8000104e:	c220f5d3          	fcvt.l.d	a1,ft1
+","```
+
+spike.dump:
+
+3 0x000000008000104e (0xc220f5d3) x11 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000104e (0xc220f5d3) x11 0x153b4412188f8082
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00021,"mismatch due to --> 8000256a:	f20a0dd3          	fmv.d.x	fs11,s4
+","```
+
+spike.dump:
+
+3 0x000000008000256a (0xf20a0dd3) f27 0x00000000aeaeb174
+
+rtl.dump:
+
+3 0x000000008000256a (0xf20a0dd3) f27 0x0000000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00020,"mismatch due to --> 80000702:	00420cbb          	addw	s9,tp,tp
+","```
+
+spike.dump:
+
+3 0x0000000080000702 (0x00420cbb) x25 0xffffffffd8000000
+
+rtl.dump:
+
+3 0x0000000080000702 (0x00420cbb) x25 0x7ff0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00019,"mismatch due to --> 80000e44:	d2357fd3          	fcvt.d.lu	ft11,a0
+","```
+
+spike.dump:
+
+3 0x0000000080000e44 (0xd2357fd3) f31 0x3ff0000000000000
+
+rtl.dump:
+
+3 0x0000000080000e44 (0xd2357fd3) f31 0x41f0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00018,"mismatch due to --> 80000938:	a3dea6d3          	feq.d	a3,ft9,ft9
+","```
+
+spike.dump:
+
+3 0x0000000080000938 (0xa3dea6d3) x13 0x0000000000000001
+
+rtl.dump:
+
+3 0x0000000080000938 (0xa3dea6d3) x13 0x2e9ad3d1bdb31a25
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00017,"mismatch due to --> 8000283a:	03ef9163          	bne	t6,t5,8000285c <i0000000794>
+","```
+
+spike.dump:
+
+3 0x000000008000285c (0x03397bbb) x23 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000285c (0x03397bbb) x23 0x7ff8000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00016,"rtl hang due to -->80005a5c:	5a8f0f13          	addi	t5,t5,1448 # 800e0000 <begin_signature>
+","    80005a54:	00020fb7          	lui	t6,0x20
+
+    80005a58:	000daf17          	auipc	t5,0xda
+
+    80005a5c:	5a8f0f13          	addi	t5,t5,1448 # 800e0000 <begin_signature>
+
+    80005a60:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a64:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00015,"mismatch due to --> 80001520:	01081933          	sll	s2,a6,a6
+","```
+
+spike.dump:
+
+3 0x0000000080001520 (0x01081933) x18 0x0000000000000000
+
+rtl.dump:
+
+3 0x0000000080001520 (0x01081933) x18 0x7ff8000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00014,"mismatch due to --> 80000b40:	033d37b3          	mulhu	a5,s10,s3
+","```
+
+spike.dump:
+
+3 0x0000000080000b40 (0x033d37b3) x15 0x0000000000000000
+
+rtl.dump:
+
+3 0x0000000080000b40 (0x033d37b3) x15 0x3ff0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00013,"rtl hang due to -->80005ad0:	534f0f13          	addi	t5,t5,1332 # 800e0000 <begin_signature>
+","    80005ac8:	00020fb7          	lui	t6,0x20
+
+    80005acc:	000daf17          	auipc	t5,0xda
+
+    80005ad0:	534f0f13          	addi	t5,t5,1332 # 800e0000 <begin_signature>
+
+    80005ad4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005ad8:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00012,"mismatch due to --> 8000031c:	006a969b          	slliw	a3,s5,0x6
+","```
+
+spike.dump:
+
+3 0x000000008000031c (0x006a969b) x13 0xffffffffffffffc0
+
+rtl.dump:
+
+3 0x000000008000031c (0x006a969b) x13 0x78c510a82eec4dcf
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00011,"rtl hang due to -->80005ace:	536f0f13          	addi	t5,t5,1334 # 800e0000 <begin_signature>
+","    80005ac6:	00020fb7          	lui	t6,0x20
+
+    80005aca:	000daf17          	auipc	t5,0xda
+
+    80005ace:	536f0f13          	addi	t5,t5,1334 # 800e0000 <begin_signature>
+
+    80005ad2:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005ad6:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00010,"mismatch due to --> 800003ec:	dbbe7d47          	fmsub.d	fs10,ft8,fs11,fs11
+","```
+
+spike.dump:
+
+3 0x00000000800003ec (0xdbbe7d47) f26 0xfd027209e4fb1b74
+
+rtl.dump:
+
+3 0x00000000800003ec (0xdbbe7d47) f26 0xfd027209e4fb1b75
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00009,"mismatch due to --> 800005fa:	4069d53b          	sraw	a0,s3,t1
+","```
+
+spike.dump:
+
+3 0x00000000800005fa (0x4069d53b) x10 0x000000003cf2bad5
+
+rtl.dump:
+
+3 0x00000000800005fa (0x4069d53b) x10 0xffffffff8006c580
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00007,"rtl hang due to -->80005af0:	514f0f13          	addi	t5,t5,1300 # 800e0000 <begin_signature>
+","    80005ae8:	00020fb7          	lui	t6,0x20
+
+    80005aec:	000daf17          	auipc	t5,0xda
+
+    80005af0:	514f0f13          	addi	t5,t5,1300 # 800e0000 <begin_signature>
+
+    80005af4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005af8:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00005,"mismatch due to --> 800007d0:	d21d0cd3          	fcvt.d.wu	fs9,s10
+","```
+
+spike.dump:
+
+3 0x00000000800007d0 (0xd21d0cd3) f25 0x41efffffffe00000
+
+rtl.dump:
+
+3 0x00000000800007d0 (0xd21d0cd3) f25 0x74d5780c081ddc55
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00004,"rtl hang due to -->80005a54:	5b0f0f13          	addi	t5,t5,1456 # 800e0000 <begin_signature>
+","    80005a4c:	00020fb7          	lui	t6,0x20
+
+    80005a50:	000daf17          	auipc	t5,0xda
+
+    80005a54:	5b0f0f13          	addi	t5,t5,1456 # 800e0000 <begin_signature>
+
+    80005a58:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a5c:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00003,"rtl hang due to -->80005af0:	514f0f13          	addi	t5,t5,1300 # 800e0000 <begin_signature>
+","    80005ae8:	00020fb7          	lui	t6,0x20
+
+    80005aec:	000daf17          	auipc	t5,0xda
+
+    80005af0:	514f0f13          	addi	t5,t5,1300 # 800e0000 <begin_signature>
+
+    80005af4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005af8:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00002,"rtl hang due to -->80005b56:	4aef0f13          	addi	t5,t5,1198 # 800e0000 <begin_signature>
+","    80005b4e:	00020fb7          	lui	t6,0x20
+
+    80005b52:	000daf17          	auipc	t5,0xda
+
+    80005b56:	4aef0f13          	addi	t5,t5,1198 # 800e0000 <begin_signature>
+
+    80005b5a:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b5e:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00001,"rtl hang due to -->80005ad0:	534f0f13          	addi	t5,t5,1332 # 800e0000 <begin_signature>
+","    80005ac8:	00020fb7          	lui	t6,0x20
+
+    80005acc:	000daf17          	auipc	t5,0xda
+
+    80005ad0:	534f0f13          	addi	t5,t5,1332 # 800e0000 <begin_signature>
+
+    80005ad4:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005ad8:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_exceptions_080720201594204783_00000,"mismatch due to --> 80000818:	c22978d3          	fcvt.l.d	a7,fs2
+","```
+
+spike.dump:
+
+3 0x0000000080000818 (0xc22978d3) x17 0x7fffffffffffffff
+
+rtl.dump:
+
+3 0x0000000080000818 (0xc22978d3) x17 0x8425bd6296f32024
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00039,"mismatch due to --> 80000398:	fb4ff5cf          	fnmadd.d	fa1,ft11,fs4,ft11
+","```
+
+spike.dump:
+
+3 0x0000000080000398 (0xfb4ff5cf) f11 0x8635a9829c6ac7c2
+
+rtl.dump:
+
+3 0x0000000080000398 (0xfb4ff5cf) f11 0x8635a9829c6ac7c1
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00038,"mismatch due to --> 80000bfe:	e20b0ed3          	fmv.x.d	t4,fs6
+","```
+
+spike.dump:
+
+3 0x0000000080000bfe (0xe20b0ed3) x29 0x7ff8000000000000
+
+rtl.dump:
+
+3 0x0000000080000bfe (0xe20b0ed3) x29 0x3fe0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00037,"mismatch due to --> 8000082e:	a243fa4f          	fnmadd.d	fs4,ft7,ft4,fs4
+","```
+
+spike.dump:
+
+3 0x000000008000082e (0xa243fa4f) f20 0x716f239e98fd26e0
+
+rtl.dump:
+
+3 0x000000008000082e (0xa243fa4f) f20 0x7190000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00036,"mismatch due to --> 8000425a:	f20983d3          	fmv.d.x	ft7,s3
+","```
+
+spike.dump:
+
+3 0x000000008000425a (0xf20983d3) f 7 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000425a (0xf20983d3) f 7 0x3ff0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00035,"rtl hang due to -->80005b0a:	4faf0f13          	addi	t5,t5,1274 # 800e0000 <begin_signature>
+","    80005b02:	00020fb7          	lui	t6,0x20
+
+    80005b06:	000daf17          	auipc	t5,0xda
+
+    80005b0a:	4faf0f13          	addi	t5,t5,1274 # 800e0000 <begin_signature>
+
+    80005b0e:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b12:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00034,"mismatch due to --> 80001b92:	4180053b          	negw	a0,s8
+","```
+
+spike.dump:
+
+3 0x0000000080001b92 (0x4180053b) x10 0x0000000000000001
+
+rtl.dump:
+
+3 0x0000000080001b92 (0x4180053b) x10 0x0000000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00033,"rtl hang due to -->80005b26:	4def0f13          	addi	t5,t5,1246 # 800e0000 <begin_signature>
+","    80005b1e:	00020fb7          	lui	t6,0x20
+
+    80005b22:	000daf17          	auipc	t5,0xda
+
+    80005b26:	4def0f13          	addi	t5,t5,1246 # 800e0000 <begin_signature>
+
+    80005b2a:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b2e:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00032,"rtl hang due to -->80005a92:	572f0f13          	addi	t5,t5,1394 # 800e0000 <begin_signature>
+","    80005a8a:	00020fb7          	lui	t6,0x20
+
+    80005a8e:	000daf17          	auipc	t5,0xda
+
+    80005a92:	572f0f13          	addi	t5,t5,1394 # 800e0000 <begin_signature>
+
+    80005a96:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a9a:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00031,"rtl hang due to -->80005a60:	5a4f0f13          	addi	t5,t5,1444 # 800e0000 <begin_signature>
+","    80005a58:	00020fb7          	lui	t6,0x20
+
+    80005a5c:	000daf17          	auipc	t5,0xda
+
+    80005a60:	5a4f0f13          	addi	t5,t5,1444 # 800e0000 <begin_signature>
+
+    80005a64:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a68:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00030,"rtl hang due to -->80005aa2:	562f0f13          	addi	t5,t5,1378 # 800e0000 <begin_signature>
+","    80005a9a:	00020fb7          	lui	t6,0x20
+
+    80005a9e:	000daf17          	auipc	t5,0xda
+
+    80005aa2:	562f0f13          	addi	t5,t5,1378 # 800e0000 <begin_signature>
+
+    80005aa6:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005aaa:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00029,"rtl hang due to -->80005b5c:	4a8f0f13          	addi	t5,t5,1192 # 800e0000 <begin_signature>
+","    80005b54:	00020fb7          	lui	t6,0x20
+
+    80005b58:	000daf17          	auipc	t5,0xda
+
+    80005b5c:	4a8f0f13          	addi	t5,t5,1192 # 800e0000 <begin_signature>
+
+    80005b60:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b64:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00028,"mismatch due to --> 8000072c:	40dedc1b          	sraiw	s8,t4,0xd
+","```
+
+spike.dump:
+
+3 0x000000008000072c (0x40dedc1b) x24 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000072c (0x40dedc1b) x24 0x7ff0000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00027,"mismatch due to --> 80000f78:	40b48e3b          	subw	t3,s1,a1
+","```
+
+spike.dump:
+
+3 0x0000000080000f78 (0x40b48e3b) x28 0xffffffffffffffff
+
+rtl.dump:
+
+3 0x0000000080000f78 (0x40b48e3b) x28 0x205ca2efe1060185
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00026,"rtl hang due to -->80005a70:	594f0f13          	addi	t5,t5,1428 # 800e0000 <begin_signature>
+","    80005a68:	00020fb7          	lui	t6,0x20
+
+    80005a6c:	000daf17          	auipc	t5,0xda
+
+    80005a70:	594f0f13          	addi	t5,t5,1428 # 800e0000 <begin_signature>
+
+    80005a74:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a78:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00025,"rtl hang due to -->80005bc6:	43ef0f13          	addi	t5,t5,1086 # 800e0000 <begin_signature>
+","    80005bbe:	00020fb7          	lui	t6,0x20
+
+    80005bc2:	000daf17          	auipc	t5,0xda
+
+    80005bc6:	43ef0f13          	addi	t5,t5,1086 # 800e0000 <begin_signature>
+
+    80005bca:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005bce:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00024,"mismatch due to --> 80001904:	4f25                	li	t5,9
+","```
+
+spike.dump:
+
+3 0x0000000080001904 (0x00004f25) x30 0x0000000000000009
+
+rtl.dump:
+
+3 0x0000000080001904 (0x00004f25) x30 0x0000000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00023,"mismatch due to --> 8000031a:	02b8d993          	srli	s3,a7,0x2b
+","```
+
+spike.dump:
+
+3 0x000000008000031a (0x02b8d993) x19 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000031a (0x02b8d993) x19 0x00000000001b975a
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00022,"rtl hang due to -->80005b30:	4d4f0f13          	addi	t5,t5,1236 # 800e0000 <begin_signature>
+","    80005b28:	00020fb7          	lui	t6,0x20
+
+    80005b2c:	000daf17          	auipc	t5,0xda
+
+    80005b30:	4d4f0f13          	addi	t5,t5,1236 # 800e0000 <begin_signature>
+
+    80005b34:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005b38:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00021,"mismatch due to --> 8000506a:	039b8a33          	mul	s4,s7,s9
+","```
+
+spike.dump:
+
+3 0x000000008000506a (0x039b8a33) x20 0x0000000000000000
+
+rtl.dump:
+
+3 0x000000008000506a (0x039b8a33) x20 0x7ff8000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00020,"mismatch due to --> 800041b6:	009f5db3          	srl	s11,t5,s1
+","```
+
+spike.dump:
+
+3 0x00000000800041b6 (0x009f5db3) x27 0x000000000000000b
+
+rtl.dump:
+
+3 0x00000000800041b6 (0x009f5db3) x27 0x7ff8000000000000
+
+```
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00019,"rtl hang due to -->80005a6e:	596f0f13          	addi	t5,t5,1430 # 800e0000 <begin_signature>
+","    80005a66:	00020fb7          	lui	t6,0x20
+
+    80005a6a:	000daf17          	auipc	t5,0xda
+
+    80005a6e:	596f0f13          	addi	t5,t5,1430 # 800e0000 <begin_signature>
+
+    80005a72:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a76:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00018,"rtl hang due to -->80005ab2:	552f0f13          	addi	t5,t5,1362 # 800e0000 <begin_signature>
+","    80005aaa:	00020fb7          	lui	t6,0x20
+
+    80005aae:	000daf17          	auipc	t5,0xda
+
+    80005ab2:	552f0f13          	addi	t5,t5,1362 # 800e0000 <begin_signature>
+
+    80005ab6:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005aba:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00017,"rtl hang due to -->80005a24:	5e0f0f13          	addi	t5,t5,1504 # 800e0000 <begin_signature>
+","    80005a1c:	00020fb7          	lui	t6,0x20
+
+    80005a20:	000daf17          	auipc	t5,0xda
+
+    80005a24:	5e0f0f13          	addi	t5,t5,1504 # 800e0000 <begin_signature>
+
+    80005a28:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005a2c:	000eaf17          	auipc	t5,0xea
+
+"
+aapg_iclass_rv64imafdc_imafd_bringup_080720201594204783_00016,"rtl hang due to -->80005ac4:	540f0f13          	addi	t5,t5,1344 # 800e0000 <begin_signature>
+","    80005abc:	00020fb7          	lui	t6,0x20
+
+    80005ac0:	000daf17          	auipc	t5,0xda
+
+    80005ac4:	540f0f13          	addi	t5,t5,1344 # 800e0000 <begin_signature>
+
+    80005ac8:	01efa023          	sw	t5,0(t6) # 20000 <_tbss_end+0x20000>
+
+    80005acc:	000eaf17          	auipc	t5,0xea
+
+"
